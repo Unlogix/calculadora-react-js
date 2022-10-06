@@ -1,0 +1,13 @@
+.inner {
+    background-color: rgb(180, 238, 157);
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    margin-left: 88px;
+}
+
+.inner:hover{
+    box-shadow: 10px 10px 30px #5f5f5f,
+    -10px -10px 30px #fff;
+    transition: 0.8s ease-in-out;
+}
